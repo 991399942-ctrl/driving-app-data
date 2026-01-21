@@ -1,9 +1,10 @@
 {
-  "id": 16,
+  "id": 17,
   "show": true,
   "title": "系统最新公告",
-  "content": "🎉 欢迎使用易成科三！\n\n1. 软件试用前请务必查看使用手册\n2. 修复了已知Bug\n\n祝您逢考必过！",
+  "content": "欢迎使用易成科三！\n\n1. 软件试用前请务必查看使用手册\n2. 修复了已知Bug",
   "cancelable": false,
   "downloadUrl": ""
 
 }
+
